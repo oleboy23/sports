@@ -1,0 +1,50 @@
+{
+"name": "true sport",
+"author": "BadBoyBangBon",
+"info": "",
+"image":"https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd-1024x200.png",
+"url": "",
+"stations":[
+
+{"name":"true sport 1",
+"image":"https://cdn4.madoball.com/upload/2892.jpg",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tsp1/playlist.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"true sport 2",
+"image":"https://cdn4.madoball.com/upload/2891.jpg",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tsp2/playlist.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"true sport 3",
+"image":"https://cdn4.madoball.com/upload/2890.jpg",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tsp3/playlist.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"true sport 4",
+"image":"https://cdn4.madoball.com/upload/2889.jpg",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tsp4/playlist.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"true sport 5",
+"image":"https://cdn4.madoball.com/upload/2888.jpg",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tsp5/playlist.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"true sport 7",
+"image":"https://cdn4.madoball.com/upload/2829.jpg",
+"url":"https://cdn1.googlecdnforstreaming.live/live/tsp7/playlist.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"}
+]}
