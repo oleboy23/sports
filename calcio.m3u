@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",IT| SKY SPORT CALCIO HD
+http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=692416&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",IT| SKY SPORT CALCIO 1 HD
+http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=692413&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",IT| SKY SPORT CALCIO 2 HD
+http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=692410&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",IT| SKY SPORT CALCIO 3 HD
+http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=692407&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",IT| SKY SPORT CALCIO 4 HD
+http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=692404&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",IT| SKY SPORT CALCIO 5 HD
+http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=692401&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",IT| SKY SPORT CALCIO 6 HD
+http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=692398&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",IT| SKY SPORT CALCIO 7 HD
+http://185.243.7.192:80/play/live.php?mac=00:1B:79:34:68:05&stream=692396&extension=m3u8
