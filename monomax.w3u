@@ -1,0 +1,78 @@
+{
+"name": "MonomaX",
+"author": "BadBoyBangBon",
+"info": "LIVE event ony",
+"image":"https://monomaxsports.tv/app/themes/mono29-2017/assets/images/LOGO-p-500x255.png?4",
+"url": "",
+"stations":[
+
+{"name":"MonomaX I",
+"image":"https://monomaxsports.tv/app/themes/mono29-2017/assets/images/LOGO.png?4",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports1/playlist.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"MonomaX II",
+"image":"https://monomaxsports.tv/app/themes/mono29-2017/assets/images/LOGO.png?4",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports2/playlist.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"MonomaX III",
+"image":"https://monomaxsports.tv/app/themes/mono29-2017/assets/images/LOGO.png?4",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports3/playlist.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"MonomaX IV",
+"image":"https://monomaxsports.tv/app/themes/mono29-2017/assets/images/LOGO.png?4",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports4/playlist.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"MonomaX V",
+"image":"https://monomaxsports.tv/app/themes/mono29-2017/assets/images/LOGO.png?4",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports5/playlist.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"MonomaX VI",
+"image":"https://monomaxsports.tv/app/themes/mono29-2017/assets/images/LOGO.png?4",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports6/playlist.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"MonomaX VII",
+"image":"https://monomaxsports.tv/app/themes/mono29-2017/assets/images/LOGO.png?4",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports7/playlist.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"MonomaX VIII",
+"image":"https://monomaxsports.tv/app/themes/mono29-2017/assets/images/LOGO.png?4",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports8/playlist.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"MonomaX IX",
+"image":"https://monomaxsports.tv/app/themes/mono29-2017/assets/images/LOGO.png?4",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports9/playlist.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"},
+
+{"name":"MonomaX X",
+"image":"https://monomaxsports.tv/app/themes/mono29-2017/assets/images/LOGO.png?4",
+"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports10/playlist.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"BadBoyBangBon",
+"playInNatPlayer":"true"}
+]}
