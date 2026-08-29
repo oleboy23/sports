@@ -15,8 +15,8 @@
 
 {"name":"MonomaX II",
 "image":"https://monomaxsports.tv/app/themes/mono29-2017/assets/images/LOGO.png?4",
-"url":"http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=1902358&extension=m3u8",
-"referer":"",
+"url":"https://github.com/oleboy23/sports/raw/refs/heads/main/monomax.m3u8",
+"referer":"https://github.com/",
 "info":"BadBoyBangBon",
 "playInNatPlayer":"true"},
 
