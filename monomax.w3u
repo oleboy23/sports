@@ -134,8 +134,7 @@
 
 {"name":"monomax",
 "image":"https://www.crofutsal.com/wp-content/uploads/2023/04/MaxSport-768x354.jpg",
-"url":"https://otp24hr.com/api/v1/sport?action=live&sportType=1",
-"referer":"https://otp24hr.com/sport/ball/4420251",
-"subtitle": "https://raw.githubusercontent.com/oleboy23/sub/refs/heads/main/oleboy23/mysubtitle.srt",
-"playInNatPlayer":"true"}
+"url":"https://otp24hr.com/sport/ball/4420251",
+"referer":"https://otp24hr.com/",
+"embed": "true"
 ]}
