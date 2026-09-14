@@ -1,9 +1,3 @@
-{"name": "Live event only",
-"author": "สาธิิตวงศ์ ทีม",
-"image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_SPORT_color.png",
-"info": "เฉพาะรายการสด",
-"groups": [
-
 {"name": "ถ่ายทอดสดกีฬา",
 "author": "สาธิตวงศ์ ทีม",
 "info": "เฉพาะรายการสด",
@@ -95,4 +89,4 @@
 "info":"16 Sept 2026, 02:00",
 "playInNatPlayer":"true"}
 ]}
-]}
+
