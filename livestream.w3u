@@ -1,0 +1,98 @@
+{"name": "Live event only",
+"author": "สาธิิตวงศ์ ทีม",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_SPORT_color.png",
+"info": "เฉพาะรายการสด",
+"groups": [
+
+{"name": "ถ่ายทอดสดกีฬา",
+"author": "สาธิิตวงศ์ ทีม",
+"info": "เฉพาะรายการสด",
+"image":"https://media.tenor.com/evp7niwqbJsAAAAj/live.gif",
+"url": "",
+"stations":[
+
+{"name":"Event | Asian Games",
+"image":"https://www.aichi-nagoya2026.org/wp-content/uploads/2026/08/AG-News_Featured-Image.png",
+"url":"https://atmflix.live/events/13159",
+"referer":"https://atmflix.live/",
+"info":"September19,2026–October4,2026",
+"playInNatPlayer":"true"},
+
+{"name":"Event | Asian Games",
+"image":"https://www.aichi-nagoya2026.org/wp-content/uploads/2026/08/AG-News_Featured-Image.png",
+"url":"https://atmflix.live/events/13160",
+"referer":"https://atmflix.live/",
+"info":"September19,2026–October4,2026",
+"playInNatPlayer":"true"},
+
+{"name":"โคโม่vsปาร์ม่า",
+"image":"https://www.fifplay.com/img/public/serie-a-logo.png",
+"url":"https://atmflix.live/football/648121",
+"referer":"https://atmflix.live/",
+"info":"14/9/69 23:30",
+"playInNatPlayer":"true"},
+
+{"name":"โตริโน่vsโรม่า",
+"image":"https://www.fifplay.com/img/public/serie-a-logo.png",
+"url":"https://atmflix.live/football/648122",
+"referer":"https://atmflix.live/",
+"info":"14/9/69 23:30",
+"playInNatPlayer":"true"},
+
+{"name":"อินเตอร์vsอูดิเนเซ่",
+"image":"https://www.fifplay.com/img/public/serie-a-logo.png",
+"url":"https://atmflix.live/football/648189",
+"referer":"https://atmflix.live/",
+"info":"15/9/69 01:45",
+"playInNatPlayer":"true"},
+
+{"name":"Leeds VS Newcastle",
+"image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
+"url":"https://atmflix.live/football/648192",
+"referer":"https://atmflix.live/",
+"info":"15/9/69 02:00",
+"playInNatPlayer":"true"},
+
+{"name":"Villarreal VS Real Betis",
+"image":"https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
+"url":"https://atmflix.live/football/648193",
+"referer":"https://atmflix.live/",
+"info":"15 Sept 2026, 02:00",
+"playInNatPlayer":"true"},
+
+{"name":"ราชบุรีvsเซี่ยงไฮ้sipg",
+"image":"https://assets.football-logos.cc/logos/tournaments/700x700/afc-champions-league-elite.6893d842.png",
+"url":"https://atmflix.live/football/648229",
+"referer":"https://atmflix.live/",
+"info":"15 Sept 2026, 17:00",
+"playInNatPlayer":"true"},
+
+{"name":"ยะโฮร์vsบุรีรัมย์",
+"image":"https://assets.football-logos.cc/logos/tournaments/700x700/afc-champions-league-elite.6893d842.png",
+"url":"https://atmflix.live/football/648243",
+"referer":"https://atmflix.live/",
+"info":"15 Sept 2026, 19:15",
+"playInNatPlayer":"true"},
+
+{"name":"Ipswich VS Arsenal",
+"image":"https://assets.football-logos.cc/logos/england/700x700/efl-cup.09d6ba91.png",
+"url":"https://atmflix.live/football/648418",
+"referer":"https://atmflix.live/",
+"info":"16 Sept 2026, 02:00",
+"playInNatPlayer":"true"},
+
+{"name":"Liverpool VS Tottenham",
+"image":"https://assets.football-logos.cc/logos/england/700x700/efl-cup.09d6ba91.png",
+"url":"https://atmflix.live/football/648419",
+"referer":"https://atmflix.live/",
+"info":"16 Sept 2026, 02:00",
+"playInNatPlayer":"true"},
+
+{"name":"Reading VS Brentford",
+"image":"https://assets.football-logos.cc/logos/england/700x700/efl-cup.09d6ba91.png",
+"url":"https://atmflix.live/football/648420",
+"referer":"https://atmflix.live/",
+"info":"16 Sept 2026, 02:00",
+"playInNatPlayer":"true"}
+]}
+]}
