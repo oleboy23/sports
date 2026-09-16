@@ -52,8 +52,27 @@
 "url":"https://atmflix.live/football/648787",
 "referer":"https://atmflix.live/",
 "info":"17 Sept 2026, 01:45",
+"playInNatPlayer":"true"},
+
+{"name":"Coventry VS Aston Villa",
+"image":"https://assets.football-logos.cc/logos/england/700x700/efl-cup.09d6ba91.png",
+"url":"https://atmflix.live/football/648806",
+"referer":"https://atmflix.live/",
+"info":"17 Sept 2026, 02:00",
+"playInNatPlayer":"true"},
+
+{"name":"Man Utd VS Brighton",
+"image":"https://assets.football-logos.cc/logos/england/700x700/efl-cup.09d6ba91.png",
+"url":"https://atmflix.live/football/648807",
+"referer":"https://atmflix.live/",
+"info":"17 Sept 2026, 02:00",
+"playInNatPlayer":"true"},
+
+{"name":"AC Milan VS Benfica",
+"image":"https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-0.png",
+"url":"https://atmflix.live/football/648808",
+"referer":"https://atmflix.live/",
+"info":"17 Sept 2026, 02:00",
 "playInNatPlayer":"true"}
-
-
 ]}
 
