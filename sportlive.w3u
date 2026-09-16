@@ -220,6 +220,54 @@
       "referer": "https://atmflix.live/",
       "info": "18 Sept 2026, 19:00",
       "playInNatPlayer": "true"
-    }
+    },
+	  {
+	    "name":"Brentford VS Chelsea ",
+      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
+      "url":"https://atmflix.live/football/649371",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 02:00",
+      "playInNatPlayer":"true"
+	  },
+    {
+	    "name":"Tottenham VS Aston Villa",
+      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
+      "url":"https://atmflix.live/football/649639",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 18:30",
+      "playInNatPlayer":"true"
+	  },
+    {
+	    "name":"Brighton VS Arsenal",
+      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
+      "url":"https://atmflix.live/football/650077",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 21:00",
+      "playInNatPlayer":"true"
+	  },
+    {
+	    "name":"Everton VS Ipswich",
+      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
+      "url":"https://atmflix.live/football/650078",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 21:00",
+      "playInNatPlayer":"true"
+	  },
+    {
+	    "name":"Newcastle VS Hull City",
+      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
+      "url":"https://atmflix.live/football/650079",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 21:00",
+      "playInNatPlayer":"true"
+	  },
+    {
+	    "name":"Nottingham Forest VS Coventry",
+      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
+      "url":"https://atmflix.live/football/650690",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 23:30",
+      "playInNatPlayer":"true"
+	  }
   ]
 }
