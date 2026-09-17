@@ -101,24 +101,224 @@
       "info": "18 Sept 2026, 19:00",
       "playInNatPlayer": "true"
     },
-    {
-	    "name":"Brentford VS Chelsea ",
+	{
+	  "name":"Bayern Munich VS Union Berlin",
+      "image":"https://www.fifplay.com/img/public/bundesliga-logo.png",
+      "url":"https://atmflix.live/football/649338",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 01:30",
+      "playInNatPlayer":"true"
+	},
+	{
+	  "name":"Monza VS Sassuolo",
+      "image":"https://www.fifplay.com/img/public/serie-a-logo.png",
+      "url":"https://atmflix.live/football/649353",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 01:45",
+      "playInNatPlayer":"true"
+	},
+	{
+	  "name":"Monaco VS Lens",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Ligue1_logo.png",
+      "url":"https://atmflix.live/football/649354",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 01:45",
+      "playInNatPlayer":"true"
+	},
+	{
+	  "name":"Brentford VS Chelsea ",
       "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
       "url":"https://atmflix.live/football/649371",
       "referer":"https://atmflix.live/",
       "info":"19 Sept 2026, 02:00",
       "playInNatPlayer":"true"
 	},
+	{
+	  "name":"Bristol City VS Watford",
+      "image":"https://images.seeklogo.com/logo-png/30/1/efl-championship-logo-png_seeklogo-301095.png",
+      "url":"https://atmflix.live/football/649372",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 02:00",
+      "playInNatPlayer":"true"
+	},
+	{
+	  "name":"Espanyol VS Elche",
+      "image":"https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
+      "url":"https://atmflix.live/football/649373",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 02:00",
+      "playInNatPlayer":"true"
+	},
+	{
+	  "name":"Consadole Sapporo VS Oita Trinita",
+      "image":"https://assets.football-logos.cc/logos/japan/700x700/j2-league.feea1c25.png",
+      "url":"https://atmflix.live/football/649422",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 12:00",
+      "playInNatPlayer":"true"
+	},
+	{
+      "name":"Avispa Fukuoka VS Sanfrecce Hiroshima",
+      "image":"https://assets.football-logos.cc/logos/japan/700x700/j-league.47f49cf3.png",
+      "url":"https://atmflix.live/football/649465",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 16:00",
+      "playInNatPlayer":"true"
+    },
     {
-	    "name":"Tottenham VS Aston Villa",
+      "name":"Kawasaki Frontale VS Kashima",
+      "image":"https://assets.football-logos.cc/logos/japan/700x700/j-league.47f49cf3.png",
+      "url":"https://atmflix.live/football/649466",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 16:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Shimizu S-pulse VS JEF United Chiba",
+      "image":"https://assets.football-logos.cc/logos/japan/700x700/j-league.47f49cf3.png",
+      "url":"https://atmflix.live/football/649479",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 16:30",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Urawa VS Tokyo Verdy",
+      "image":"https://assets.football-logos.cc/logos/japan/700x700/j-league.47f49cf3.png",
+      "url":"https://atmflix.live/football/649480",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 16:30",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"V-varen Nagasaki VS Cerezo Osaka",
+      "image":"https://assets.football-logos.cc/logos/japan/700x700/j-league.47f49cf3.png",
+      "url":"https://atmflix.live/football/649481",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 16:30",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Fujieda MYFC VS Omiya Ardija",
+      "image":"https://assets.football-logos.cc/logos/japan/700x700/j2-league.feea1c25.png",
+      "url":"https://atmflix.live/football/649484",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 16:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Yokohama F. Marinos VS Mito Hollyhock",
+      "image":"https://assets.football-logos.cc/logos/japan/700x700/j-league.47f49cf3.png",
+      "url":"https://atmflix.live/football/649546",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 17:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Rasi Salai United VS Lamphun Warrior",
+      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
+      "url":"https://atmflix.live/football/649599",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 18:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Kanchanaburi VS Mahasarakham United",
+      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260720-144810-51e1681c-65c7-424c-b0e2-8207e5692a86.png",
+      "url":"",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 18:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Khon Kaen United VS Police Tero",
+      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260720-144810-51e1681c-65c7-424c-b0e2-8207e5692a86.png",
+      "url":"https://atmflix.live/football/649606",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 18:00",
+      "playInNatPlayer":"true"
+    },
+    {
+	  "name":"Tottenham VS Aston Villa",
       "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
       "url":"https://atmflix.live/football/649639",
       "referer":"https://atmflix.live/",
       "info":"19 Sept 2026, 18:30",
       "playInNatPlayer":"true"
 	},
+	{
+      "name":"Pattani VS Prachuap",
+      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
+      "url":"https://atmflix.live/football/649651",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 18:30",
+      "playInNatPlayer":"true"
+    },
     {
-	    "name":"Brighton VS Arsenal",
+      "name":"Muangthong United VS Chiangmai United",
+      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260720-144810-51e1681c-65c7-424c-b0e2-8207e5692a86.png",
+      "url":"https://atmflix.live/football/649652",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 18:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Chiangrai United VS Sisaket United",
+      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
+      "url":"https://atmflix.live/football/649756",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 19:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Bologna VS Torino",
+      "image":"https://www.fifplay.com/img/public/serie-a-logo.png",
+      "url":"https://atmflix.live/football/649852",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 20:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Udinese VS Cagliari",
+      "image":"https://www.fifplay.com/img/public/serie-a-logo.png",
+      "url":"https://atmflix.live/football/649853",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 20:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Eintracht Frankfurt VS SC Freiburg",
+      "image":"https://www.fifplay.com/img/public/bundesliga-logo.png",
+      "url":"https://atmflix.live/football/649998",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 20:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Hamburger SV VS FC Koln",
+      "image":"https://www.fifplay.com/img/public/bundesliga-logo.png",
+      "url":"https://atmflix.live/football/649999",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 20:30",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Werder Bremen VS FC Augsburg",
+      "image":"https://www.fifplay.com/img/public/bundesliga-logo.png",
+      "url":"https://atmflix.live/football/650000",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 20:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"B.Monchengladbach VS FSV Mainz 05",
+      "image":"https://www.fifplay.com/img/public/bundesliga-logo.png",
+      "url":"https://atmflix.live/football/650001",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 20:30",
+      "playInNatPlayer":"true"
+    },
+    {
+	  "name":"Brighton VS Arsenal",
       "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
       "url":"https://atmflix.live/football/650077",
       "referer":"https://atmflix.live/",
@@ -126,7 +326,7 @@
       "playInNatPlayer":"true"
 	},
     {
-	    "name":"Everton VS Ipswich",
+	  "name":"Everton VS Ipswich",
       "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
       "url":"https://atmflix.live/football/650078",
       "referer":"https://atmflix.live/",
@@ -134,20 +334,68 @@
       "playInNatPlayer":"true"
 	},
     {
-	    "name":"Newcastle VS Hull City",
+	  "name":"Newcastle VS Hull City",
       "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
       "url":"https://atmflix.live/football/650079",
       "referer":"https://atmflix.live/",
       "info":"19 Sept 2026, 21:00",
       "playInNatPlayer":"true"
 	},
+	{
+      "name":"AS Roma VS Inter",
+      "image":"https://www.fifplay.com/img/public/serie-a-logo.png",
+      "url":"https://atmflix.live/football/650575",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 23:00",
+      "playInNatPlayer":"true"
+    },
     {
-	    "name":"Nottingham Forest VS Coventry",
+      "name":"Nottingham Forest VS Coventry",
       "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
       "url":"https://atmflix.live/football/650690",
       "referer":"https://atmflix.live/",
       "info":"19 Sept 2026, 23:30",
       "playInNatPlayer":"true"
-	}
+    },
+    {
+	  "name":"Nottingham Forest VS Coventry",
+      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
+      "url":"https://atmflix.live/football/650690",
+      "referer":"https://atmflix.live/",
+      "info":"19 Sept 2026, 23:30",
+      "playInNatPlayer":"true"
+	},
+	{
+      "name":"Chonburi FC Vs Buriram United",
+      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
+      "url":"https://atmflix.live/football/651201",
+      "referer":"https://atmflix.live/",
+      "info":"20 Sept 2026, 18:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Rayong FC VS Ratchaburi",
+      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
+      "url":"https://atmflix.live/football/651202",
+      "referer":"https://atmflix.live/",
+      "info":"20 Sept 2026, 18:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Sukhothai FC VS Port FC",
+      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
+      "url":"https://atmflix.live/football/651230",
+      "referer":"https://atmflix.live/",
+      "info":"20 Sept 2026, 18:30",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Bangkok United VS BG United",
+      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
+      "url":"https://atmflix.live/football/651279",
+      "referer":"https://atmflix.live/",
+      "info":"20 Sept 2026, 19:00",
+      "playInNatPlayer":"true"
+    }
   ]
 }
