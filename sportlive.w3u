@@ -22,307 +22,83 @@
       "playInNatPlayer": "true"
     },
     {
-      "name":"Bologna VS Torino",
-      "image":"https://www.fifplay.com/img/public/serie-a-logo.png",
-      "url":"https://atmflix.live/football/649852",
+      "name":"Iraq vs Oman",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/arabian-gulf-cup.5a07e0d9.png",
+      "url":"https://atmflix.live/football/652547",
       "referer":"https://atmflix.live/",
-      "info":"19 Sept 2026, 20:00",
+      "info":"23 Sept 2026, 21:30",
       "playInNatPlayer":"true"
     },
 	{
-      "name":"Udinese VS Cagliari",
-      "image":"https://www.fifplay.com/img/public/serie-a-logo.png",
-      "url":"https://atmflix.live/football/649853",
+      "name":"Saudi Arabia vs ",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/arabian-gulf-cup.5a07e0d9.png",
+      "url":"https://atmflix.live/football/652641",
       "referer":"https://atmflix.live/",
-      "info":"19 Sept 2026, 20:00",
+      "info":"24 Sept 2026, 01:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Bahamas vs Saint Martin",
+      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFNationsLeague.vresize.350.350.medium.0.png",
+      "url":"https://atmflix.live/football/652668",
+      "referer":"https://atmflix.live/",
+      "info":"24 Sept 2026, 03:00",
       "playInNatPlayer":"true"
     },
     {
-      "name":"Eintracht Frankfurt VS SC Freiburg",
-      "image":"https://www.fifplay.com/img/public/bundesliga-logo.png",
-      "url":"https://atmflix.live/football/649998",
+      "name":"Aruba vs Antigua and Barbuda",
+      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFNationsLeague.vresize.350.350.medium.0.png",
+      "url":"https://atmflix.live/football/652682",
       "referer":"https://atmflix.live/",
-      "info":"19 Sept 2026, 20:30",
+      "info":"24 Sept 2026, 06:00",
       "playInNatPlayer":"true"
     },
 	{
-      "name":"Hamburger SV VS FC Koln",
-      "image":"https://www.fifplay.com/img/public/bundesliga-logo.png",
-      "url":"https://atmflix.live/football/649999",
+      "name":"Namibia vs Congo",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
+      "url":"https://atmflix.live/football/652699",
       "referer":"https://atmflix.live/",
-      "info":"19 Sept 2026, 20:30",
+      "info":"24 Sept 2026, 20:00",
       "playInNatPlayer":"true"
     },
     {
-      "name":"Werder Bremen VS FC Augsburg",
-      "image":"https://www.fifplay.com/img/public/bundesliga-logo.png",
-      "url":"https://atmflix.live/football/650000",
+      "name":"UAE vs Yemen",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/arabian-gulf-cup.5a07e0d9.png",
+      "url":"https://atmflix.live/football/652712",
       "referer":"https://atmflix.live/",
-      "info":"19 Sept 2026, 20:30",
+      "info":"24 Sept 2026, 22:00",
       "playInNatPlayer":"true"
     },
 	{
-      "name":"B.Monchengladbach VS FSV Mainz 05",
-      "image":"https://www.fifplay.com/img/public/bundesliga-logo.png",
-      "url":"https://atmflix.live/football/650001",
+      "name":"Congo DR vs Equatorial Guinea",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
+      "url":"https://atmflix.live/football/652714",
       "referer":"https://atmflix.live/",
-      "info":"19 Sept 2026, 20:30",
+      "info":"24 Sept 2026, 23:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Libya vs Botswana",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
+      "url":"https://atmflix.live/football/652715",
+      "referer":"https://atmflix.live/",
+      "info":"24 Sept 2026, 23:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Mauritania vs Central African Republic",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
+      "url":"https://atmflix.live/football/652716",
+      "referer":"https://atmflix.live/",
+      "info":"24 Sept 2026, 23:00",
       "playInNatPlayer":"true"
     },
     {
-	  "name":"Brighton VS Arsenal",
-      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
-      "url":"https://atmflix.live/football/650077",
+      "name":"Andorra vs Malta",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
+      "url":"https://atmflix.live/football/652713",
       "referer":"https://atmflix.live/",
-      "info":"19 Sept 2026, 21:00",
-      "playInNatPlayer":"true"
-	},
-    {
-	  "name":"Everton VS Ipswich",
-      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
-      "url":"https://atmflix.live/football/650078",
-      "referer":"https://atmflix.live/",
-      "info":"19 Sept 2026, 21:00",
-      "playInNatPlayer":"true"
-	},
-    {
-	  "name":"Newcastle VS Hull City",
-      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
-      "url":"https://atmflix.live/football/650079",
-      "referer":"https://atmflix.live/",
-      "info":"19 Sept 2026, 21:00",
-      "playInNatPlayer":"true"
-	},
-	{
-      "name":"AS Roma VS Inter",
-      "image":"https://www.fifplay.com/img/public/serie-a-logo.png",
-      "url":"https://atmflix.live/football/650575",
-      "referer":"https://atmflix.live/",
-      "info":"19 Sept 2026, 23:00",
-      "playInNatPlayer":"true"
-    },
-    {
-	  "name":"Nottingham Forest VS Coventry",
-      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
-      "url":"https://atmflix.live/football/650690",
-      "referer":"https://atmflix.live/",
-      "info":"19 Sept 2026, 23:30",
-      "playInNatPlayer":"true"
-	},
-	{
-      "name":"Trabzonspor VS Galatasaray",
-      "image":"https://images.seeklogo.com/logo-png/54/2/trendyol-super-lig-logo-png_seeklogo-546248.png",
-      "url":"https://atmflix.live/football/650753",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 00:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Ajax VS Excelsior",
-      "image":"https://assets.football-logos.cc/logos/netherlands/1500x1500/eredivisie--white-monochrome.8cda4cc1.png",
-      "url":"https://atmflix.live/football/650818",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 01:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Venezia VS Lazio",
-      "image":"https://www.fifplay.com/img/public/serie-a-logo.png",
-      "url":"https://atmflix.live/football/650887",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 01:45",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Lyon VS Rennes",
-      "image":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Ligue1_logo.png",
-      "url":"https://atmflix.live/football/650890",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 01:45",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Sevilla VS Barcelona",
-      "image":"https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
-      "url":"https://atmflix.live/football/650900",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Fiorentina VS Napoli",
-      "image":"https://www.fifplay.com/img/public/serie-a-logo.png",
-      "url":"https://atmflix.live/football/651170",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 17:30",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Chonburi FC Vs Buriram United",
-      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
-      "url":"https://atmflix.live/football/651201",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 18:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Rayong FC VS Ratchaburi",
-      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
-      "url":"https://atmflix.live/football/651202",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 18:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Sukhothai FC VS Port FC",
-      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
-      "url":"https://atmflix.live/football/651230",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 18:30",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Bangkok United VS BG United",
-      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
-      "url":"https://atmflix.live/football/651279",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 19:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Bournemouth VS Liverpool",
-      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
-      "url":"https://atmflix.live/football/651358",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 20:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Leeds VS Crystal Palace",
-      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
-      "url":"https://atmflix.live/football/651359",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 20:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Man City VS Sunderland",
-      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
-      "url":"https://atmflix.live/football/651360",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 20:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"B.Leverkusen VS RB Leipzig",
-      "image":"https://www.fifplay.com/img/public/bundesliga-logo.png",
-      "url":"https://atmflix.live/football/651534",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 20:30",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Fenerbahce VS Eyüpspor",
-      "image":"https://images.seeklogo.com/logo-png/54/2/trendyol-super-lig-logo-png_seeklogo-546248.png",
-      "url":"https://atmflix.live/football/651579",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 21:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Atletico Madrid VS Real Madrid",
-      "image":"https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
-      "url":"https://atmflix.live/football/651666",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 21:15",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Fulham VS Man United",
-      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
-      "url":"https://atmflix.live/football/651765",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 22:30",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Juventus VS Atalanta",
-      "image":"https://www.fifplay.com/img/public/serie-a-logo.png",
-      "url":"https://atmflix.live/football/651796",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 23:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"D.La Coruna VS Real Betis",
-      "image":"https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
-      "url":"https://atmflix.live/football/651853",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 23:30",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Villarreal VS Levante",
-      "image":"https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
-      "url":"https://atmflix.live/football/651854",
-      "referer":"https://atmflix.live/",
-      "info":"20 Sept 2026, 23:30",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"AC Milan VS Lecce",
-      "image":"https://www.fifplay.com/img/public/serie-a-logo.png",
-      "url":"https://atmflix.live/football/652036",
-      "referer":"https://atmflix.live/",
-      "info":"21 Sept 2026, 01:45",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Marseille VS PSG",
-      "image":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Ligue1_logo.png",
-      "url":"https://atmflix.live/football/652037",
-      "referer":"https://atmflix.live/",
-      "info":"21 Sept 2026, 01:45",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Corinthians VS Fluminense",
-      "image":"https://assets.football-logos.cc/logos/brazil/700x700/brazilian-serie-a.7d78c4af.png",
-      "url":"https://atmflix.live/football/652038",
-      "referer":"https://atmflix.live/",
-      "info":"21 Sept 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Vitoria VS Cruzeiro",
-      "image":"https://assets.football-logos.cc/logos/brazil/700x700/brazilian-serie-a.7d78c4af.png",
-      "url":"https://atmflix.live/football/652039",
-      "referer":"https://atmflix.live/",
-      "info":"21 Sept 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Valencia VS Real Sociedad",
-      "image":"https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
-      "url":"https://atmflix.live/football/652045",
-      "referer":"https://atmflix.live/",
-      "info":"21 Sept 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"FC Porto VS Benfica",
-      "image":"https://assets.football-logos.cc/logos/portugal/700x700/primeira-liga.bedff667.png",
-      "url":"https://atmflix.live/football/652055",
-      "referer":"https://atmflix.live/",
-      "info":"21 Sept 2026, 02:30",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Inter Miami VS San Diego",
-      "image":"https://images.seeklogo.com/logo-png/8/2/major-league-soccer-logo-png_seeklogo-87540.png",
-      "url":"https://atmflix.live/football/652128",
-      "referer":"https://atmflix.live/",
-      "info":"21 Sept 2026, 06:00",
+      "info":"24 Sept 2026, 23:00",
       "playInNatPlayer":"true"
     }
   ]
