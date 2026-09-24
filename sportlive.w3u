@@ -6,62 +6,6 @@
   "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/sportlive.w3u",
   "stations": [
     {
-      "name": "Event | America’s Got Talent 2026 – Finale Performances – Top 10",
-      "image": "https://on-camera-audiences.com/wp-content/uploads/2025/05/agt-2026.png",
-      "url": "https://atmflix.live/events/13363",
-      "referer": "https://atmflix.live/",
-      "info": "23 Sept 2026, 08:00",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "Event | America’s Got Talent 2026 – Finale Performances – Top 10",
-      "image": "https://on-camera-audiences.com/wp-content/uploads/2025/05/agt-2026.png",
-      "url": "https://atmflix.live/events/13364",
-      "referer": "https://atmflix.live/",
-      "info": "24 Sept 2026, 08:00",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name":"Iraq vs Oman",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/arabian-gulf-cup.5a07e0d9.png",
-      "url":"https://atmflix.live/football/652547",
-      "referer":"https://atmflix.live/",
-      "info":"23 Sept 2026, 21:30",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Saudi Arabia vs Kuwait",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/arabian-gulf-cup.5a07e0d9.png",
-      "url":"https://atmflix.live/football/652641",
-      "referer":"https://atmflix.live/",
-      "info":"24 Sept 2026, 01:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Bahamas vs Saint Martin",
-      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFNationsLeague.vresize.350.350.medium.0.png",
-      "url":"https://atmflix.live/football/652668",
-      "referer":"https://atmflix.live/",
-      "info":"24 Sept 2026, 03:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Aruba vs Antigua and Barbuda",
-      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFNationsLeague.vresize.350.350.medium.0.png",
-      "url":"https://atmflix.live/football/652682",
-      "referer":"https://atmflix.live/",
-      "info":"24 Sept 2026, 06:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Seattle Sounders vs Real Salt Lake",
-      "image":"https://images.seeklogo.com/logo-png/8/2/major-league-soccer-logo-png_seeklogo-87540.png",
-      "url":"https://atmflix.live/football/652687",
-      "referer":"https://atmflix.live/",
-      "info":"24 Sept 2026, 08:30",
-      "playInNatPlayer":"true"
-    },
-	{
       "name":"Namibia vs Congo",
       "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
       "url":"https://atmflix.live/football/652699",
@@ -275,6 +219,86 @@
       "url":"https://atmflix.live/football/652853",
       "referer":"https://atmflix.live/",
       "info":"25 Sept 2026, 23:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Egypt vs Angola",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
+      "url":"https://atmflix.live/football/652985",
+      "referer":"https://atmflix.live/",
+      "info":"26 Sept 2026, 02:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Morocco vs Gabon",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
+      "url":"https://atmflix.live/football/652987",
+      "referer":"https://atmflix.live/",
+      "info":"26 Sept 2026, 02:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Jamaica vs Guatemala",
+      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFNationsLeague.vresize.350.350.medium.0.png",
+      "url":"https://atmflix.live/football/653026",
+      "referer":"https://atmflix.live/",
+      "info":"26 Sept 2026, 07:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Atlante FC vs Monterrey",
+      "image":"https://assets.football-logos.cc/logos/mexico/256x256/liga-mx.0d70670f.png",
+      "url":"https://atmflix.live/football/653030",
+      "referer":"https://atmflix.live/",
+      "info":"26 Sept 2026, 08:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Honduras vs Suriname",
+      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFNationsLeague.vresize.350.350.medium.0.png",
+      "url":"https://atmflix.live/football/653034",
+      "referer":"https://atmflix.live/",
+      "info":"26 Sept 2026, 08:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Club Tijuana vs Atlas",
+      "image":"https://assets.football-logos.cc/logos/mexico/256x256/liga-mx.0d70670f.png",
+      "url":"https://atmflix.live/football/653039",
+      "referer":"https://atmflix.live/",
+      "info":"26 Sept 2026, 10:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Omiya Ardija vs Ventforet Kofu",
+      "image":"https://assets.football-logos.cc/logos/japan/700x700/j2-league.feea1c25.png",
+      "url":"https://atmflix.live/football/653063",
+      "referer":"https://atmflix.live/",
+      "info":"26 Sept 2026, 15:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Tegevajaro Miyazaki vs Consadole Sapporo",
+      "image":"https://assets.football-logos.cc/logos/japan/700x700/j2-league.feea1c25.png",
+      "url":"https://atmflix.live/football/653066",
+      "referer":"https://atmflix.live/",
+      "info":"26 Sept 2026, 15:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Pakistan vs Thailand",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/fifa-asean-cup.333a4209.png",
+      "url":"https://atmflix.live/football/654025",
+      "referer":"https://atmflix.live/",
+      "info":"26 Sept 2026, 16:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Kuwait vs Iraq",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/arabian-gulf-cup.5a07e0d9.png",
+      "url":"https://atmflix.live/football/653918",
+      "referer":"https://atmflix.live/",
+      "info":"26 Sept 2026, 22:00",
       "playInNatPlayer":"true"
     }
   ]
