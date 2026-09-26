@@ -5,292 +5,20 @@
   "image": "https://media.tenor.com/evp7niwqbJsAAAAj/live.gif",
   "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/sportlive.w3u",
   "stations": [
-    {
-      "name":"Namibia vs Congo",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
-      "url":"https://atmflix.live/football/652699",
-      "referer":"https://atmflix.live/",
-      "info":"24 Sept 2026, 20:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"UAE vs Yemen",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/arabian-gulf-cup.5a07e0d9.png",
-      "url":"https://atmflix.live/football/652712",
-      "referer":"https://atmflix.live/",
-      "info":"24 Sept 2026, 22:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Congo DR vs Equatorial Guinea",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
-      "url":"https://atmflix.live/football/652714",
-      "referer":"https://atmflix.live/",
-      "info":"24 Sept 2026, 23:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Libya vs Botswana",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
-      "url":"https://atmflix.live/football/652715",
-      "referer":"https://atmflix.live/",
-      "info":"24 Sept 2026, 23:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Mauritania vs Central African Republic",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
-      "url":"https://atmflix.live/football/652716",
-      "referer":"https://atmflix.live/",
-      "info":"24 Sept 2026, 23:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Andorra vs Malta",
+   {
+      "name":"Slovenia vs Scotland",
       "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
-      "url":"https://atmflix.live/football/652713",
+      "url":"https://atmflix.live/football/653337",
       "referer":"https://atmflix.live/",
-      "info":"24 Sept 2026, 23:00",
+      "info":"26 Sept 2026, 20:00",
       "playInNatPlayer":"true"
     },
 	{
-      "name":"Congo DR vs Equatorial Guinea",
+      "name":"Kenya vs Eritrea",
       "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
-      "url":"https://atmflix.live/football/652714",
+      "url":"https://atmflix.live/football/653338",
       "referer":"https://atmflix.live/",
-      "info":"24 Sept 2026, 23:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Libya vs Botswana",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
-      "url":"https://atmflix.live/football/652715",
-      "referer":"https://atmflix.live/",
-      "info":"24 Sept 2026, 23:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Mauritania vs Central African Republic",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
-      "url":"https://atmflix.live/football/652716",
-      "referer":"https://atmflix.live/",
-      "info":"24 Sept 2026, 23:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Qatar vs Bahrain",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/arabian-gulf-cup.5a07e0d9.png",
-      "url":"https://atmflix.live/football/652736",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 01:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Portugal vs Wales",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
-      "url":"https://atmflix.live/football/652744",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 01:45",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Serbia vs Greece",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
-      "url":"https://atmflix.live/football/652743",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 01:45",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Austria vs Israel",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
-      "url":"https://atmflix.live/football/652746",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 01:45",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Kosovo vs Rep. Of Ireland",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
-      "url":"https://atmflix.live/football/652747",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 01:45",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Liechtenstein vs Lithuania",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
-      "url":"https://atmflix.live/football/652748",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 01:45",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Netherlands vs Germany",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
-      "url":"https://atmflix.live/football/652742",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 01:45",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Norway vs Denmark",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
-      "url":"https://atmflix.live/football/652745",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 01:45",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Cameroon vs Comoros",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
-      "url":"https://atmflix.live/football/652750",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Ivory Coast vs Ghana",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
-      "url":"https://atmflix.live/football/652751",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Tunisia vs Uganda",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
-      "url":"https://atmflix.live/football/652753",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Dominican Republic vs Nicaragua",
-      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFNationsLeague.vresize.350.350.medium.0.png",
-      "url":"https://atmflix.live/football/652766",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 07:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Costa Rica vs Curaçao",
-      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFNationsLeague.vresize.350.350.medium.0.png",
-      "url":"https://atmflix.live/football/652773",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 09:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Niger vs Lesotho",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
-      "url":"https://atmflix.live/football/652834",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 22:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Georgia vs Northern Ireland",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
-      "url":"https://atmflix.live/football/652849",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 23:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Armenia vs Latvia",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
-      "url":"https://atmflix.live/football/652850",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 23:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Gambia vs Somalia",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
-      "url":"https://atmflix.live/football/652851",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 23:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Nigeria vs Madagascar",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
-      "url":"https://atmflix.live/football/652853",
-      "referer":"https://atmflix.live/",
-      "info":"25 Sept 2026, 23:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Egypt vs Angola",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
-      "url":"https://atmflix.live/football/652985",
-      "referer":"https://atmflix.live/",
-      "info":"26 Sept 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Morocco vs Gabon",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
-      "url":"https://atmflix.live/football/652987",
-      "referer":"https://atmflix.live/",
-      "info":"26 Sept 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Jamaica vs Guatemala",
-      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFNationsLeague.vresize.350.350.medium.0.png",
-      "url":"https://atmflix.live/football/653026",
-      "referer":"https://atmflix.live/",
-      "info":"26 Sept 2026, 07:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Atlante FC vs Monterrey",
-      "image":"https://assets.football-logos.cc/logos/mexico/256x256/liga-mx.0d70670f.png",
-      "url":"https://atmflix.live/football/653030",
-      "referer":"https://atmflix.live/",
-      "info":"26 Sept 2026, 08:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Honduras vs Suriname",
-      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFNationsLeague.vresize.350.350.medium.0.png",
-      "url":"https://atmflix.live/football/653034",
-      "referer":"https://atmflix.live/",
-      "info":"26 Sept 2026, 08:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Club Tijuana vs Atlas",
-      "image":"https://assets.football-logos.cc/logos/mexico/256x256/liga-mx.0d70670f.png",
-      "url":"https://atmflix.live/football/653039",
-      "referer":"https://atmflix.live/",
-      "info":"26 Sept 2026, 10:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Omiya Ardija vs Ventforet Kofu",
-      "image":"https://assets.football-logos.cc/logos/japan/700x700/j2-league.feea1c25.png",
-      "url":"https://atmflix.live/football/653063",
-      "referer":"https://atmflix.live/",
-      "info":"26 Sept 2026, 15:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Tegevajaro Miyazaki vs Consadole Sapporo",
-      "image":"https://assets.football-logos.cc/logos/japan/700x700/j2-league.feea1c25.png",
-      "url":"https://atmflix.live/football/653066",
-      "referer":"https://atmflix.live/",
-      "info":"26 Sept 2026, 15:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Pakistan vs Thailand",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/fifa-asean-cup.333a4209.png",
-      "url":"https://atmflix.live/football/654025",
-      "referer":"https://atmflix.live/",
-      "info":"26 Sept 2026, 16:00",
+      "info":"26 Sept 2026, 20:00",
       "playInNatPlayer":"true"
     },
 	{
@@ -298,9 +26,265 @@
       "image":"https://assets.football-logos.cc/logos/tournaments/700x700/arabian-gulf-cup.5a07e0d9.png",
       "url":"https://atmflix.live/football/653918",
       "referer":"https://atmflix.live/",
-      "info":"26 Sept 2026, 22:00",
+      "info":"26 Sept 2026, 22:55",
       "playInNatPlayer":"true"
-    }
+    },
+	{
+      "name":"San Marino vs Finland",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
+      "url":"https://atmflix.live/football/653957",
+      "referer":"https://atmflix.live/",
+      "info":"26 Sept 2026, 23:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Faroe Islands vs Kazakhstan",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
+      "url":"https://atmflix.live/football/653958",
+      "referer":"https://atmflix.live/",
+      "info":"26 Sept 2026, 23:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Iceland vs Estonia",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
+      "url":"https://atmflix.live/football/653959",
+      "referer":"https://atmflix.live/",
+      "info":"26 Sept 2026, 23:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Bulgaria vs Luxembourg",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
+      "url":"https://atmflix.live/football/653960",
+      "referer":"https://atmflix.live/",
+      "info":"26 Sept 2026, 23:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Oman vs Saudi Arabia",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/arabian-gulf-cup.5a07e0d9.png",
+      "url":"https://atmflix.live/football/654129",
+      "referer":"https://atmflix.live/",
+      "info":"27 Sept 2026, 01:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"England vs Spain",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
+      "url":"https://atmflix.live/football/654150",
+      "referer":"https://atmflix.live/",
+      "info":"27 Sept 2026, 01:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Czech Republic vs Croatia",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
+      "url":"https://atmflix.live/football/654151",
+      "referer":"https://atmflix.live/",
+      "info":"27 Sept 2026, 01:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Albania vs Belarus",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
+      "url":"https://atmflix.live/football/654152",
+      "referer":"https://atmflix.live/",
+      "info":"27 Sept 2026, 01:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Slovakia vs Moldova",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
+      "url":"https://atmflix.live/football/654153",
+      "referer":"https://atmflix.live/",
+      "info":"27 Sept 2026, 01:45",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"FYR Macedonia vs Switzerland",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
+      "url":"https://atmflix.live/football/654154",
+      "referer":"https://atmflix.live/",
+      "info":"27 Sept 2026, 01:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Montserrat vs British Virgin Islands",
+      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFNationsLeague.vresize.350.350.medium.0.png",
+      "url":"https://atmflix.live/football/654171",
+      "referer":"https://atmflix.live/",
+      "info":"27 Sept 2026, 02:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Saint Martin vs US Virgin Islands",
+      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFNationsLeague.vresize.350.350.medium.0.png",
+      "url":"https://atmflix.live/football/654188",
+      "referer":"https://atmflix.live/",
+      "info":"27 Sept 2026, 03:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Cruz Azul vs Toluca",
+      "image":"https://assets.football-logos.cc/logos/mexico/256x256/liga-mx.0d70670f.png",
+      "url":"https://atmflix.live/football/654217",
+      "referer":"https://atmflix.live/",
+      "info":"27 Sept 2026, 05:50",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"FC Dallas vs Los Angeles FC",
+      "image":"https://images.seeklogo.com/logo-png/8/2/major-league-soccer-logo-png_seeklogo-87540.png",
+      "url":"https://atmflix.live/football/654249",
+      "referer":"https://atmflix.live/",
+      "info":"27 Sept 2026, 07:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Real Salt Lake vs New England Revolution",
+      "image":"https://images.seeklogo.com/logo-png/8/2/major-league-soccer-logo-png_seeklogo-87540.png",
+      "url":"https://atmflix.live/football/654266",
+      "referer":"https://atmflix.live/",
+      "info":"27 Sept 2026, 08:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Los Angeles Galaxy vs Colorado Rapids",
+      "image":"https://images.seeklogo.com/logo-png/8/2/major-league-soccer-logo-png_seeklogo-87540.png",
+      "url":"https://atmflix.live/football/654274",
+      "referer":"https://atmflix.live/",
+      "info":"27 Sept 2026, 09:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Yemen vs Qatar",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/arabian-gulf-cup.5a07e0d9.png",
+      "url":"https://atmflix.live/football/654835",
+      "referer":"https://atmflix.live/",
+      "info":"27 Sept 2026, 22:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Serbia vs Netherlands",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
+      "url":"https://atmflix.live/football/654863",
+      "referer":"https://atmflix.live/",
+      "info":"27 Sept 2026, 23:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Denmark vs Wales",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
+      "url":"https://atmflix.live/football/654864",
+      "referer":"https://atmflix.live/",
+      "info":"27 Sept 2026, 23:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Austria vs Kosovo",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
+      "url":"https://atmflix.live/football/654865",
+      "referer":"https://atmflix.live/",
+      "info":"27 Sept 2026, 23:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Bahrain vs UAE",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/arabian-gulf-cup.5a07e0d9.png",
+      "url":"https://atmflix.live/football/654996",
+      "referer":"https://atmflix.live/",
+      "info":"28 Sept 2026, 01:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Racing Club vs Boca Juniors",
+      "image":"https://copaargentina.s3.amazonaws.com/images/m107699_crop169014_1024x576_proportional_16439156354177.jpg",
+      "url":"https://atmflix.live/football/655056",
+      "referer":"https://atmflix.live/",
+      "info":"28 Sept 2026, 03:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Columbus Crew vs Inter Miami",
+      "image":"https://images.seeklogo.com/logo-png/8/2/major-league-soccer-logo-png_seeklogo-87540.png",
+      "url":"https://atmflix.live/football/655080",
+      "referer":"https://atmflix.live/",
+      "info":"28 Sept 2026, 06:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Botswana vs Tunisia",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
+      "url":"https://atmflix.live/football/655168",
+      "referer":"https://atmflix.live/",
+      "info":"29 Sept 2026, 02:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Jamaica vs Honduras",
+      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFNationsLeague.vresize.350.350.medium.0.png",
+      "url":"https://atmflix.live/football/655184",
+      "referer":"https://atmflix.live/",
+      "info":"29 Sept 2026, 07:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Thailand vs Vietnam",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/fifa-asean-cup.333a4209.png",
+      "url":"https://atmflix.live/football/655230",
+      "referer":"https://atmflix.live/",
+      "info":"29 Sept 2026, 19:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Ethiopia vs Senegal",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
+      "url":"https://atmflix.live/football/655232",
+      "referer":"https://atmflix.live/",
+      "info":"29 Sept 2026, 20:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Lesotho vs Morocco",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
+      "url":"https://atmflix.live/football/655233",
+      "referer":"https://atmflix.live/",
+      "info":"29 Sept 2026, 20:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"South Sudan vs Egypt",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
+      "url":"https://atmflix.live/football/655236",
+      "referer":"https://atmflix.live/",
+      "info":"29 Sept 2026, 20:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Cape Verde Islands vs Rwanda",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
+      "url":"https://atmflix.live/football/655252",
+      "referer":"https://atmflix.live/",
+      "info":"29 Sept 2026, 23:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Ghana vs Gambia",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
+      "url":"https://atmflix.live/football/655253",
+      "referer":"https://atmflix.live/",
+      "info":"29 Sept 2026, 23:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Guinea-Bissau vs Nigeria",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/africa-cup-of-nations-2025.3c3d97a1.png",
+      "url":"https://atmflix.live/football/655254",
+      "referer":"https://atmflix.live/",
+      "info":"29 Sept 2026, 23:00",
+      "playInNatPlayer":"true"
+    } 
   ]
 }
     
