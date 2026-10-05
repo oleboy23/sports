@@ -8,15 +8,15 @@
 
 {"name":"MAX Sport 1",
 "image":"https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png",
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports3/playlist.m3u8",
-"referer":"https://warpdooball.net/",
+"url":"https://github.com/oleboy23/sports/raw/refs/heads/main/monomax1.m3u8",
+"referer":"https://github.com/",
 "info":"BadBoyBangBon",
 "playInNatPlayer":"true"},
 
 {"name":"MAX Sport 2",
 "image":"https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png",
-"url":"https://cdn1.googlecdnforstreaming.live/live/monomax-sports4/playlist.m3u8",
-"referer":"https://warpdooball.net/",
+"url":"https://github.com/oleboy23/sports/raw/refs/heads/main/monomax2.m3u8",
+"referer":"https://github.com/",
 "info":"BadBoyBangBon",
 "playInNatPlayer":"true"},
 
