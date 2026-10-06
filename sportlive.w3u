@@ -6,78 +6,6 @@
   "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/sportlive.w3u",
   "stations": [	
 	{
-      "name":"Indonesia vs Thailand",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/fifa-asean-cup.333a4209.png",
-      "url":"https://atmflix.live/football/658199",
-      "referer":"https://atmflix.live/",
-      "info":"05 Oct 2026, 20:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"France vs Belgium",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
-      "url":"https://atmflix.live/football/658213",
-      "referer":"https://atmflix.live/",
-      "info":"06 Oct 2026, 01:45",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Italy vs Turkey",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
-      "url":"https://atmflix.live/football/658214",
-      "referer":"https://atmflix.live/",
-      "info":"06 Oct 2026, 01:45",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Romania vs Sweden",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-nations-league.178b1e72.png",
-      "url":"https://atmflix.live/football/658218",
-      "referer":"https://atmflix.live/",
-      "info":"06 Oct 2026, 01:45",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Deportivo Riestra vs Central Cordoba de Santiago",
-      "image":"https://assets.football-logos.cc/logos/argentina/700x700/argentina-primera-division.57664552.png",
-      "url":"https://atmflix.live/football/658223",
-      "referer":"https://atmflix.live/",
-      "info":"06 Oct 2026, 02:45",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Estudiantes L.P. vs Gimnasia M.",
-      "image":"https://assets.football-logos.cc/logos/argentina/700x700/argentina-primera-division.57664552.png",
-      "url":"https://atmflix.live/football/658228",
-      "referer":"https://atmflix.live/",
-      "info":"06 Oct 2026, 05:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Velez Sarsfield vs Platense",
-      "image":"https://assets.football-logos.cc/logos/argentina/700x700/argentina-primera-division.57664552.png",
-      "url":"https://atmflix.live/football/658229",
-      "referer":"https://atmflix.live/",
-      "info":"06 Oct 2026, 05:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Guatemala vs Suriname",
-      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFNationsLeague.vresize.350.350.medium.0.png",
-      "url":"https://atmflix.live/football/658240",
-      "referer":"https://atmflix.live/",
-      "info":"06 Oct 2026, 07:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Honduras vs Jamaica",
-      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFNationsLeague.vresize.350.350.medium.0.png",
-      "url":"https://atmflix.live/football/658245",
-      "referer":"https://atmflix.live/",
-      "info":"06 Oct 2026, 09:00",
-      "playInNatPlayer":"true"
-    },
-	{
       "name":"India vs Uruguay",
       "image":"https://cdn.footystats.org/img/competitions/international-international-friendlies.png",
       "url":"https://atmflix.live/football/658296",
@@ -179,6 +107,54 @@
       "url":"https://atmflix.live/football/658632",
       "referer":"https://atmflix.live/",
       "info":"08 Oct 2026, 19:00",
+      "playInNatPlayer":"true"
+    }
+	{
+      "name":"Santos vs Flamengo",
+      "image":"https://assets.football-logos.cc/logos/brazil/700x700/brazilian-serie-a.7d78c4af.png",
+      "url":"https://atmflix.live/football/658714",
+      "referer":"https://atmflix.live/",
+      "info":"09 Oct 2026, 05:30",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Daejeon Citizen vs Jeonbuk Motors",
+      "image":"https://r2.thesportsdb.com/images/media/league/badge/zaw2cj1628430843.png",
+      "url":"https://atmflix.live/football/658725",
+      "referer":"https://atmflix.live/",
+      "info":"09 Oct 2026, 12:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Incheon United vs Pohang Steelers",
+      "image":"https://r2.thesportsdb.com/images/media/league/badge/zaw2cj1628430843.png",
+      "url":"https://atmflix.live/football/658729",
+      "referer":"https://atmflix.live/",
+      "info":"09 Oct 2026, 14:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Kashima vs Gamba Osaka",
+      "image":"https://assets.football-logos.cc/logos/japan/700x700/j-league.47f49cf3.png",
+      "url":"https://atmflix.live/football/658754",
+      "referer":"https://atmflix.live/",
+      "info":"09 Oct 2026, 17:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Kashiwa Reysol vs Vissel Kobe",
+      "image":"https://assets.football-logos.cc/logos/japan/700x700/j-league.47f49cf3.png",
+      "url":"https://atmflix.live/football/658755",
+      "referer":"https://atmflix.live/",
+      "info":"09 Oct 2026, 17:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Ratchaburi vs Sukhothai FC",
+      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
+      "url":"https://atmflix.live/football/658792",
+      "referer":"https://atmflix.live/",
+      "info":"09 Oct 2026, 19:00",
       "playInNatPlayer":"true"
     }
   ]
