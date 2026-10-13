@@ -6,62 +6,6 @@
   "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/live.w3u",
   "stations": [
 	{
-      "name":"Torino vs Udinese",
-      "image":"https://www.fifplay.com/img/public/serie-a-logo.png",
-      "url":"https://atmflix.live/football/662058",
-      "referer":"https://atmflix.live/",
-      "info":"13 Oct 2026, 01:45",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Lanus vs Velez Sarsfield",
-      "image":"https://assets.football-logos.cc/logos/argentina/700x700/argentina-primera-division.57664552.png",
-      "url":"https://atmflix.live/football/662061",
-      "referer":"https://atmflix.live/",
-      "info":"13 Oct 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Levante vs Sevilla",
-      "image":"https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
-      "url":"https://atmflix.live/football/662065",
-      "referer":"https://atmflix.live/",
-      "info":"13 Oct 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Coventry vs Newcastle",
-      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
-      "url":"https://atmflix.live/football/662063",
-      "referer":"https://atmflix.live/",
-      "info":"13 Oct 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Gimnasia M. vs Newells Old Boys",
-      "image":"https://assets.football-logos.cc/logos/argentina/700x700/argentina-primera-division.57664552.png",
-      "url":"https://atmflix.live/football/662078",
-      "referer":"https://atmflix.live/",
-      "info":"13 Oct 2026, 04:30",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Kyoto Sanga vs Ratchaburi",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/afc-champions-league-elite.6893d842.png",
-      "url":"https://atmflix.live/football/662100",
-      "referer":"https://atmflix.live/",
-      "info":"13 Oct 2026, 17:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Buriram United vs Beijing Guoan",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/afc-champions-league-elite.6893d842.png",
-      "url":"https://atmflix.live/football/662125",
-      "referer":"https://atmflix.live/",
-      "info":"13 Oct 2026, 19:15",
-      "playInNatPlayer":"true"
-    },
-	{
       "name":"Arsenal vs Lille",
       "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/UEFAChampionsLeague-alternate.vresize.350.350.medium.0.png",
       "url":"https://atmflix.live/football/662329",
@@ -251,6 +195,86 @@
       "url":"https://atmflix.live/football/662605",
       "referer":"https://atmflix.live/",
       "info":"15 Oct 2026, 23:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Benfica vs Celtic",
+      "image":"https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-0.png",
+      "url":"https://atmflix.live/football/662658",
+      "referer":"https://atmflix.live/",
+      "info":"16 Oct 2026, 02:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Celta Vigo vs Juventus",
+      "image":"https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-0.png",
+      "url":"https://atmflix.live/football/662660",
+      "referer":"https://atmflix.live/",
+      "info":"16 Oct 2026, 02:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"1899 Hoffenheim vs Besiktas",
+      "image":"https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-0.png",
+      "url":"https://atmflix.live/football/662663",
+      "referer":"https://atmflix.live/",
+      "info":"16 Oct 2026, 02:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Marseille vs Olympiakos Piraeus",
+      "image":"https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-0.png",
+      "url":"https://atmflix.live/football/662665",
+      "referer":"https://atmflix.live/",
+      "info":"16 Oct 2026, 02:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Bournemouth vs Sturm Graz",
+      "image":"https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-0.png",
+      "url":"https://atmflix.live/football/662659",
+      "referer":"https://atmflix.live/",
+      "info":"16 Oct 2026, 02:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Brighton vs Kauno Žalgiris",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-conference-league.4a977457.png",
+      "url":"https://atmflix.live/football/662670",
+      "referer":"https://atmflix.live/",
+      "info":"16 Oct 2026, 02:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Twente vs FC Thun",
+      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-conference-league.4a977457.png",
+      "url":"https://atmflix.live/football/662675",
+      "referer":"https://atmflix.live/",
+      "info":"16 Oct 2026, 02:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Huracan vs Gimnasia L.P.",
+      "image":"https://assets.football-logos.cc/logos/argentina/700x700/argentina-primera-division.57664552.png",
+      "url":"https://atmflix.live/football/662691",
+      "referer":"https://atmflix.live/",
+      "info":"16 Oct 2026, 06:00",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Estudiantes L.P. vs Flamengo",
+      "image":"https://brandlogos.net/wp-content/uploads/2022/11/copa_libertadores-logo_brandlogos.net_fh1mg-512x392.png",
+      "url":"https://atmflix.live/football/662340",
+      "referer":"https://atmflix.live/",
+      "info":"16 Oct 2026, 07:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Ayutthaya FC vs Lamphun Warrior",
+      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
+      "url":"https://atmflix.live/football/662743",
+      "referer":"https://atmflix.live/",
+      "info":"16 Oct 2026, 19:00",
       "playInNatPlayer":"true"
     }
   ]
