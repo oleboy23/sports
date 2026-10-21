@@ -106,7 +106,7 @@
 
 {"name":"playsport",
 "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260720-144810-51e1681c-65c7-424c-b0e2-8207e5692a86.png",
-"url":"https://cdn1.googlecdnforstreaming.live/live/ch20/playlist.m3u8",
+"url":"https://cdn1.googlecdnforstreaming.live/live/playsportsfootball6/playlist.m3u8",
 "referer":"https://warpdooball.net/",
 "info":"BadBoyBangBon",
 "playInNatPlayer":"true"},
