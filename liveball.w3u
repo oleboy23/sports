@@ -5,124 +5,52 @@
   "image": "https://media.tenor.com/evp7niwqbJsAAAAj/live.gif",
   "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/liveball.w3u",
   "stations": [
-	{
-      "name":"como vs Man United",
-      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/UEFAChampionsLeague-alternate.vresize.350.350.medium.0.png",
-      "url":"https://dooball66-hd.com/fixtures/19872634",
+    {
+      "name":"ยูเอส เลชเช vs ยูเวนตูส",
+      "image":"https://www.fifplay.com/img/public/serie-a-logo.png",
+      "url":"https://dooball66-hd.com/fixtures/19713541",
       "referer":"https://dooball66-hd.com/",
-      "info":"21 Oct 2026, 23:45",
+      "info":"26 ต.ค 2569 00:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"อูดิเนเซ่ vs มิลาน",
+      "image":"https://www.fifplay.com/img/public/serie-a-logo.png",
+      "url":"https://dooball66-hd.com/fixtures/19713538",
+      "referer":"https://dooball66-hd.com/",
+      "info":"26 ต.ค 2569 02:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"เรอัลโซซิเอดัด vs เลบันเต้",
+      "image":"https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
+      "url":"https://dooball66-hd.com/fixtures/19732645",
+      "referer":"https://dooball66-hd.com/",
+      "info":"26 ต.ค 2569 00:30",
       "playInNatPlayer":"true"
     },
     {
-      "name":"Lille vs Galatasaray",
-      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/UEFAChampionsLeague-alternate.vresize.350.350.medium.0.png",
-      "url":"https://dooball66-hd.com/fixtures/19873251",
+      "name":"บาร์เซโลนา vs เรอัลมาดริด",
+      "image":"https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
+      "url":"https://dooball66-hd.com/fixtures/19732648",
       "referer":"https://dooball66-hd.com/",
-      "info":"21 Oct 2026, 23:45",
+      "info":"26 ต.ค 2569 03:00",
       "playInNatPlayer":"true"
     },
 	{
-      "name":"บาเยิร์น มิวนิค vs อาร์เซนอล",
-      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/UEFAChampionsLeague-alternate.vresize.350.350.medium.0.png",
-      "url":"https://dooball66-hd.com/fixtures/19872608",
+      "name":"เอสซีจี เมืองทอง ยูไนเต็ด vs โปลิศ เทโร",
+      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260720-144810-51e1681c-65c7-424c-b0e2-8207e5692a86.png",
+      "url":"https://dooball66-hd.com/fixtures/19875640",
       "referer":"https://dooball66-hd.com/",
-      "info":"22 Oct 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"อินเตอร์ vs ชัคตาร์ดอแนตสก์",
-      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/UEFAChampionsLeague-alternate.vresize.350.350.medium.0.png",
-      "url":"https://dooball66-hd.com/fixtures/19873232",
-      "referer":"https://dooball66-hd.com/",
-      "info":"22 Oct 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"เรอัล มาดริด vs อาร์บี ไลป์ซิก",
-      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/UEFAChampionsLeague-alternate.vresize.350.350.medium.0.png",
-      "url":"https://dooball66-hd.com/fixtures/19873690",
-      "referer":"https://dooball66-hd.com/",
-      "info":"22 Oct 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"แอสตัน วิลล่า vs ไวกิ้ง",
-      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/UEFAChampionsLeague-alternate.vresize.350.350.medium.0.png",
-      "url":"https://dooball66-hd.com/fixtures/19873693",
-      "referer":"https://dooball66-hd.com/",
-      "info":"22 Oct 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"ยาโบลเนช vs ไบรท์ตัน แอนด์ โฮฟ อัลเบี้ยน",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-conference-league.4a977457.png",
-      "url":"https://dooball66-hd.com/fixtures/19874025",
-      "referer":"https://dooball66-hd.com/",
-      "info":"22 Oct 2026, 23:45",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"ยูเวนตูส vs แรนส์",
-      "image":"https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-0.png",
-      "url":"https://dooball66-hd.com/fixtures/19873819",
-      "referer":"https://dooball66-hd.com/",
-      "info":"22 Oct 2026, 23:45",
+      "info":"26 ต.ค 2569 19:00",
       "playInNatPlayer":"true"
     },
     {
-      "name":"โอเอฟไอ เครเต้ vs เลเวอร์คูเซน",
-      "image":"https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-0.png",
-      "url":"https://dooball66-hd.com/fixtures/19873829",
+      "name":"เปแอสเช vs ลียง",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Ligue1_logo.png",
+      "url":"https://dooball66-hd.com/fixtures/19715566",
       "referer":"https://dooball66-hd.com/",
-      "info":"22 Oct 2026, 23:45",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"เลช พอซนาน vs ซันเดอร์แลนด์",
-      "image":"https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-0.png",
-      "url":"https://dooball66-hd.com/fixtures/19873813",
-      "referer":"https://dooball66-hd.com/",
-      "info":"22 Oct 2026, 23:45",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"ดีนาโม ซาเกร็บ vs เอ็นอีซี ไนจ์เมเก้น",
-      "image":"https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-0.png",
-      "url":"https://dooball66-hd.com/fixtures/19873807",
-      "referer":"https://dooball66-hd.com/",
-      "info":"22 Oct 2026, 23:45",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"เอเอฟซี บอร์นมัธ vs มิลาน",
-      "image":"https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-0.png",
-      "url":"https://dooball66-hd.com/fixtures/19873944",
-      "referer":"https://dooball66-hd.com/",
-      "info":"23 Oct 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"เบซิคตัส vs คริสตัล พาเลซ",
-      "image":"https://logodownload.org/wp-content/uploads/2019/12/europa-league-logo-0.png",
-      "url":"https://dooball66-hd.com/fixtures/19873946",
-      "referer":"https://dooball66-hd.com/",
-      "info":"23 Oct 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"โมนาโก vs ไฟร์บวร์ก",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-conference-league.4a977457.png",
-      "url":"https://dooball66-hd.com/fixtures/19874011",
-      "referer":"https://dooball66-hd.com/",
-      "info":"23 Oct 2026, 02:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"อาแจ็กซ์ vs อตาลันต้า",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/uefa-conference-league.4a977457.png",
-      "url":"https://dooball66-hd.com/fixtures/19874014",
-      "referer":"https://atmflix.live/",
-      "info":"23 Oct 2026, 02:00",
+      "info":"27 ต.ค 2569 02:30",
       "playInNatPlayer":"true"
     }
   ]
