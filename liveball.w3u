@@ -5,86 +5,6 @@
   "image": "https://media.tenor.com/evp7niwqbJsAAAAj/live.gif",
   "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/liveball.w3u",
   "stations": [
-    {
-      "name":"ราชบุรีมิตรผล vs คาชิวะ เรย์โซล",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/afc-champions-league-elite.6893d842.png",
-      "url":"https://dooball66-hd.com/fixtures/19867051",
-      "referer":"https://dooball66-hd.com/",
-      "info":"27 ต.ค 2569 19:15",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"ฮัมบูร์เกอร์ เอสเฟา vs ไอน์ทรัค แฟร้งค์เฟิร์ต",
-      "image":"https://cdn.sportmonks.com/images/soccer/leagues/13/109.png",
-      "url":"https://dooball66-hd.com/fixtures/19879791",
-      "referer":"https://dooball66-hd.com/",
-      "info":"28 ต.ค 2569 00:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"ซาสซูโอโล่ vs ลาซิโอ้",
-      "image":"https://assets.football-logos.cc/logos/italy/700x700/serie-a.15e58b67.png",
-      "url":"https://dooball66-hd.com/fixtures/19713530",
-      "referer":"https://dooball66-hd.com/",
-      "info":"28 ต.ค 2569 00:30",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"โคโลญจน์ vs ยูเนี่ยน เบอร์ลิน",
-      "image":"https://cdn.sportmonks.com/images/soccer/leagues/13/109.png",
-      "url":"https://dooball66-hd.com/fixtures/19879783",
-      "referer":"https://dooball66-hd.com/",
-      "info":"28 ต.ค 2569 02:45",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"โบรุสเซียดอร์ทมุนด์ vs แวร์เดอร์เบรเมน",
-      "image":"https://cdn.sportmonks.com/images/soccer/leagues/13/109.png",
-      "url":"https://dooball66-hd.com/fixtures/19879795",
-      "referer":"https://dooball66-hd.com/",
-      "info":"28 ต.ค 2569 02:45",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"โตริโน่ vs โคโม่",
-      "image":"https://assets.football-logos.cc/logos/italy/700x700/serie-a.15e58b67.png",
-      "url":"https://dooball66-hd.com/fixtures/19713529",
-      "referer":"https://dooball66-hd.com/",
-      "info":"28 ต.ค 2569 02:45",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"โรม่า vs กายารี่",
-      "image":"https://assets.football-logos.cc/logos/italy/700x700/serie-a.15e58b67.png",
-      "url":"https://dooball66-hd.com/fixtures/19713531",
-      "referer":"https://dooball66-hd.com/",
-      "info":"28 ต.ค 2569 02:45",
-      "playInNatPlayer":"true"
-    },	
-	{
-      "name":"ฟลีตวู้ด ทาวน์ vs อาร์เซนอล",
-      "image":"https://assets.football-logos.cc/logos/england/700x700/efl-cup.09d6ba91.png",
-      "url":"https://dooball66-hd.com/fixtures/19884065",
-      "referer":"https://dooball66-hd.com/",
-      "info":"28 ต.ค 2569 03:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"กัมบะ โอซะกะ vs บุรีรัมย์ ยูไนเต็ด",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/afc-champions-league-elite.6893d842.png",
-      "url":"https://dooball66-hd.com/fixtures/19867019",
-      "referer":"https://dooball66-hd.com/",
-      "info":"28 ต.ค 2569 17:00",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"คาชิมะ แอนต์เลอส์ vs โปฮัง สตีลเลอร์ส",
-      "image":"https://assets.football-logos.cc/logos/tournaments/700x700/afc-champions-league-elite.6893d842.png",
-      "url":"https://dooball66-hd.com/fixtures/19867024",
-      "referer":"https://dooball66-hd.com/",
-      "info":"28 ต.ค 2569 17:00",
-      "playInNatPlayer":"true"
-    },
 	{
       "name":"เวเนเซีย vs อินเตอร์",
       "image":"https://assets.football-logos.cc/logos/italy/700x700/serie-a.15e58b67.png",
@@ -102,6 +22,14 @@
       "playInNatPlayer":"true"
     },
 	{
+      "name":"แมนเชสเตอร์ซิตี้ vs ไบรท์ตัน แอนด์ โฮฟ อัลเบี้ยน",
+      "image":"https://assets.football-logos.cc/logos/england/700x700/efl-cup.09d6ba91.png",
+      "url":"https://dooball66-hd.com/fixtures/19884064",
+      "referer":"https://dooball66-hd.com/",
+      "info":"29 ต.ค 2569 02:30",
+      "playInNatPlayer":"true"
+    },
+	{
       "name":"มอนซ่า vs นาโปลี",
       "image":"https://assets.football-logos.cc/logos/italy/700x700/serie-a.15e58b67.png",
       "url":"https://dooball66-hd.com/fixtures/19713533",
@@ -115,6 +43,102 @@
       "url":"https://dooball66-hd.com/fixtures/19713535",
       "referer":"https://dooball66-hd.com/",
       "info":"29 ต.ค 2569 02:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"เอเอฟซี บอร์นมัธ vs แอสตัน วิลล่า",
+      "image":"https://assets.football-logos.cc/logos/england/700x700/efl-cup.09d6ba91.png",
+      "url":"https://dooball66-hd.com/fixtures/19884058",
+      "referer":"https://dooball66-hd.com/",
+      "info":"29 ต.ค 2569 02:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"ฟูแล่ม vs คริสตัล พาเลซ",
+      "image":"https://assets.football-logos.cc/logos/england/700x700/efl-cup.09d6ba91.png",
+      "url":"https://dooball66-hd.com/fixtures/19884059",
+      "referer":"https://dooball66-hd.com/",
+      "info":"29 ต.ค 2569 02:45",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"ซันเดอร์แลนด์ vs เบรนท์ฟอร์ด",
+      "image":"https://assets.football-logos.cc/logos/england/700x700/efl-cup.09d6ba91.png",
+      "url":"https://dooball66-hd.com/fixtures/19884062",
+      "referer":"https://dooball66-hd.com/",
+      "info":"29 ต.ค 2569 02:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"เลเวอร์คูเซน vs เนิร์นแบร์ก",
+      "image":"https://cdn.sportmonks.com/images/soccer/leagues/13/109.png",
+      "url":"https://dooball66-hd.com/fixtures/19879787",
+      "referer":"https://dooball66-hd.com/",
+      "info":"29 ต.ค 2569 02:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"บาเยิร์น มิวนิค vs Magdeburg",
+      "image":"https://cdn.sportmonks.com/images/soccer/leagues/13/109.png",
+      "url":"https://dooball66-hd.com/fixtures/19879794",
+      "referer":"https://dooball66-hd.com/",
+      "info":"29 ต.ค 2569 02:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"ลิเวอร์พูล vs เชลซี",
+      "image":"https://assets.football-logos.cc/logos/england/700x700/efl-cup.09d6ba91.png",
+      "url":"https://dooball66-hd.com/fixtures/19884061",
+      "referer":"https://dooball66-hd.com/",
+      "info":"29 ต.ค 2569 03:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"อเดเลด ยูไนเต็ด vs  Lion City Sailors FC",
+      "image":"https://images.seeklogo.com/logo-png/54/1/afc-champions-league-two-logo-png_seeklogo-547502.png",
+      "url":"https://dooball66-hd.com/fixtures/19862288",
+      "referer":"https://dooball66-hd.com/",
+      "info":"29 ต.ค 2569 14:15",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"กังวอน vs Kuching FA",
+      "image":"https://images.seeklogo.com/logo-png/54/1/afc-champions-league-two-logo-png_seeklogo-547502.png",
+      "url":"https://dooball66-hd.com/fixtures/19862279",
+      "referer":"https://dooball66-hd.com/",
+      "info":"29 ต.ค 2569 17:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"เซี่ยงไฮ้ กรีนแลนด์ vs Machida Zelvia",
+      "image":"https://images.seeklogo.com/logo-png/54/1/afc-champions-league-two-logo-png_seeklogo-547502.png",
+      "url":"https://dooball66-hd.com/fixtures/19862271",
+      "referer":"https://dooball66-hd.com/",
+      "info":"29 ต.ค 2569 19:15",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Wofoo Tai Po vs บีจี ปทุม ยูไนเต็ด",
+      "image":"https://images.seeklogo.com/logo-png/54/1/afc-champions-league-two-logo-png_seeklogo-547502.png",
+      "url":"https://dooball66-hd.com/fixtures/19862276",
+      "referer":"https://dooball66-hd.com/",
+      "info":"29 ต.ค 2569 19:15",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"เอฟเวอร์ตัน vs นิวคาสเซิ่ล ยูไนเต็ด",
+      "image":"https://assets.football-logos.cc/logos/england/700x700/efl-cup.09d6ba91.png",
+      "url":"https://dooball66-hd.com/fixtures/19884063",
+      "referer":"https://dooball66-hd.com/",
+      "info":"30 ต.ค 2569 02:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"ฟิออเรนติน่า vs อตาลันต้า",
+      "image":"https://assets.football-logos.cc/logos/italy/700x700/serie-a.15e58b67.png",
+      "url":"https://dooball66-hd.com/fixtures/19713537",
+      "referer":"https://dooball66-hd.com/",
+      "info":"30 ต.ค 2569 02:45",
       "playInNatPlayer":"true"
     }
   ]
