@@ -6,54 +6,6 @@
   "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/liveball.w3u",
   "stations": [
 	{
-      "name":"เซี่ยงไฮ้ กรีนแลนด์ vs Machida Zelvia",
-      "image":"https://images.seeklogo.com/logo-png/54/1/afc-champions-league-two-logo-png_seeklogo-547502.png",
-      "url":"https://dooball66-hd.com/fixtures/19862271",
-      "referer":"https://dooball66-hd.com/",
-      "info":"29 ต.ค 2569 19:15",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Wofoo Tai Po vs บีจี ปทุม ยูไนเต็ด",
-      "image":"https://images.seeklogo.com/logo-png/54/1/afc-champions-league-two-logo-png_seeklogo-547502.png",
-      "url":"https://dooball66-hd.com/fixtures/19862276",
-      "referer":"https://dooball66-hd.com/",
-      "info":"29 ต.ค 2569 19:15",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"เอฟเวอร์ตัน vs นิวคาสเซิ่ล ยูไนเต็ด",
-      "image":"https://assets.football-logos.cc/logos/england/700x700/efl-cup.09d6ba91.png",
-      "url":"https://dooball66-hd.com/fixtures/19884063",
-      "referer":"https://dooball66-hd.com/",
-      "info":"30 ต.ค 2569 02:45",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"ฟิออเรนติน่า vs อตาลันต้า",
-      "image":"https://assets.football-logos.cc/logos/italy/700x700/serie-a.15e58b67.png",
-      "url":"https://dooball66-hd.com/fixtures/19713537",
-      "referer":"https://dooball66-hd.com/",
-      "info":"30 ต.ค 2569 02:45",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Atletico-MG vs Cruzeiro",
-      "image":"https://assets.football-logos.cc/logos/brazil/700x700/brazilian-serie-a.7d78c4af.png",
-      "url":"https://atmflix.live/football/671260",
-      "referer":"https://atmflix.live/",
-      "info":"30 Oct 2026, 05:30",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Sisaket United vs Ratchaburi",
-      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
-      "url":"https://atmflix.live/football/671323",
-      "referer":"https://atmflix.live/",
-      "info":"30 Oct 2026, 19:00",
-      "playInNatPlayer":"true"
-    },
-	{
       "name":"Konyaspor vs Galatasaray",
       "image":"https://images.seeklogo.com/logo-png/54/2/trendyol-super-lig-logo-png_seeklogo-546248.png",
       "url":"https://atmflix.live/football/671482",
@@ -331,6 +283,62 @@
       "url":"https://atmflix.live/football/674191",
       "referer":"https://atmflix.live/",
       "info":"01 Nov 2026, 23:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Boca Juniors vs River Plate",
+      "image":"https://assets.football-logos.cc/logos/argentina/700x700/argentina-primera-division.57664552.png",
+      "url":"https://atmflix.live/football/674249",
+      "referer":"https://atmflix.live/",
+      "info":"02 Nov 2026, 01:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Juventus vs Napoli",
+      "image":"https://assets.football-logos.cc/logos/italy/700x700/serie-a.15e58b67.png",
+      "url":"https://atmflix.live/football/674319",
+      "referer":"https://atmflix.live/",
+      "info":"02 Nov 2026, 02:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Marseille vs Toulouse",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Ligue1_logo.png",
+      "url":"https://atmflix.live/football/674320",
+      "referer":"https://atmflix.live/",
+      "info":"02 Nov 2026, 02:45",
+      "playInNatPlayer":"true"
+    },
+    {
+      "name":"Athletic Club vs Real Sociedad",
+      "image":"https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
+      "url":"https://atmflix.live/football/674322",
+      "referer":"https://atmflix.live/",
+      "info":"02 Nov 2026, 03:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Santos Laguna vs Necaxa",
+      "image":"https://assets.football-logos.cc/logos/mexico/256x256/liga-mx.0d70670f.png",
+      "url":"https://atmflix.live/football/674378",
+      "referer":"https://atmflix.live/",
+      "info":"02 Nov 2026, 06:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"New England Revolution vs Inter Miami",
+      "image":"https://images.seeklogo.com/logo-png/8/2/major-league-soccer-logo-png_seeklogo-87540.png",
+      "url":"https://atmflix.live/football/674389",
+      "referer":"https://atmflix.live/",
+      "info":"02 Nov 2026, 07:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Chonburi FC vs BG United",
+      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
+      "url":"https://atmflix.live/football/674419",
+      "referer":"https://atmflix.live/",
+      "info":"02 Nov 2026, 19:00",
       "playInNatPlayer":"true"
     }
   ]
