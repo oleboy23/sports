@@ -6,78 +6,6 @@
   "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/liveball.w3u",
   "stations": [
 	{
-      "name":"Kasimpasa vs Besiktas",
-      "image":"https://images.seeklogo.com/logo-png/54/2/trendyol-super-lig-logo-png_seeklogo-546248.png",
-      "url":"https://atmflix.live/football/674151",
-      "referer":"https://atmflix.live/",
-      "info":"01 Nov 2026, 23:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Paris FC vs Monaco",
-      "image":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Ligue1_logo.png",
-      "url":"https://atmflix.live/football/674188",
-      "referer":"https://atmflix.live/",
-      "info":"01 Nov 2026, 23:15",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Liverpool vs Arsenal",
-      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
-      "url":"https://atmflix.live/football/674191",
-      "referer":"https://atmflix.live/",
-      "info":"01 Nov 2026, 23:30",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Boca Juniors vs River Plate",
-      "image":"https://assets.football-logos.cc/logos/argentina/700x700/argentina-primera-division.57664552.png",
-      "url":"https://atmflix.live/football/674249",
-      "referer":"https://atmflix.live/",
-      "info":"02 Nov 2026, 01:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Juventus vs Napoli",
-      "image":"https://assets.football-logos.cc/logos/italy/700x700/serie-a.15e58b67.png",
-      "url":"https://atmflix.live/football/674319",
-      "referer":"https://atmflix.live/",
-      "info":"02 Nov 2026, 02:45",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Marseille vs Toulouse",
-      "image":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Ligue1_logo.png",
-      "url":"https://atmflix.live/football/674320",
-      "referer":"https://atmflix.live/",
-      "info":"02 Nov 2026, 02:45",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name":"Athletic Club vs Real Sociedad",
-      "image":"https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
-      "url":"https://atmflix.live/football/674322",
-      "referer":"https://atmflix.live/",
-      "info":"02 Nov 2026, 03:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Santos Laguna vs Necaxa",
-      "image":"https://assets.football-logos.cc/logos/mexico/256x256/liga-mx.0d70670f.png",
-      "url":"https://atmflix.live/football/674378",
-      "referer":"https://atmflix.live/",
-      "info":"02 Nov 2026, 06:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"New England Revolution vs Inter Miami",
-      "image":"https://images.seeklogo.com/logo-png/8/2/major-league-soccer-logo-png_seeklogo-87540.png",
-      "url":"https://atmflix.live/football/674389",
-      "referer":"https://atmflix.live/",
-      "info":"02 Nov 2026, 07:00",
-      "playInNatPlayer":"true"
-    },
-	{
       "name":"Chonburi FC vs BG United",
       "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
       "url":"https://atmflix.live/football/674419",
@@ -211,6 +139,70 @@
       "url":"https://atmflix.live/football/674816",
       "referer":"https://atmflix.live/",
       "info":"04 Nov 2026, 07:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"AEK Athens FC vs Real Madrid",
+      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/UEFAChampionsLeague-alternate.vresize.350.350.medium.0.png",
+      "url":"https://atmflix.live/football/674957",
+      "referer":"https://atmflix.live/",
+      "info":"05 Nov 2026, 00:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Fenerbahce vs Liverpool",
+      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/UEFAChampionsLeague-alternate.vresize.350.350.medium.0.png",
+      "url":"https://atmflix.live/football/674958",
+      "referer":"https://atmflix.live/",
+      "info":"05 Nov 2026, 00:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Borussia Dortmund vs Real Betis",
+      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/UEFAChampionsLeague-alternate.vresize.350.350.medium.0.png",
+      "url":"https://atmflix.live/football/674983",
+      "referer":"https://atmflix.live/",
+      "info":"05 Nov 2026, 03:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"RB Leipzig vs Man City",
+      "image":"https://b.fssta.com/uploads/application/soccer/competition-logos/UEFAChampionsLeague-alternate.vresize.350.350.medium.0.png",
+      "url":"https://atmflix.live/football/674987",
+      "referer":"https://atmflix.live/",
+      "info":"05 Nov 2026, 03:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Atletico Paranaense vs Vasco DA Gama",
+      "image":"https://assets.football-logos.cc/logos/brazil/700x700/brazilian-serie-a.7d78c4af.png",
+      "url":"https://atmflix.live/football/674998",
+      "referer":"https://atmflix.live/",
+      "info":"05 Nov 2026, 05:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Botafogo vs Atletico-MG",
+      "image":"https://assets.football-logos.cc/logos/brazil/700x700/brazilian-serie-a.7d78c4af.png",
+      "url":"https://atmflix.live/football/675007",
+      "referer":"https://atmflix.live/",
+      "info":"05 Nov 2026, 07:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Sao Paulo vs Corinthians",
+      "image":"https://assets.football-logos.cc/logos/brazil/700x700/brazilian-serie-a.7d78c4af.png",
+      "url":"https://atmflix.live/football/675008",
+      "referer":"https://atmflix.live/",
+      "info":"05 Nov 2026, 07:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"BG United vs Wofoo Tai Po",
+      "image":"https://images.seeklogo.com/logo-png/54/1/afc-champions-league-two-logo-png_seeklogo-547502.png",
+      "url":"https://atmflix.live/football/675029",
+      "referer":"https://atmflix.live/",
+      "info":"05 Nov 2026, 19:15",
       "playInNatPlayer":"true"
     }
   ]
