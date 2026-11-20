@@ -6,78 +6,6 @@
   "url": "https://raw.githubusercontent.com/oleboy23/sports/refs/heads/main/liveball.w3u",
   "stations": [
 	{
-      "name":"Coritiba vs Santos",
-      "image":"https://assets.football-logos.cc/logos/brazil/700x700/brazilian-serie-a.7d78c4af.png",
-      "url":"https://atmflix.live/football/681146",
-      "referer":"https://atmflix.live/",
-      "info":"19 พ.ย. 2026 05:30",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Cruzeiro vs Palmeiras",
-      "image":"https://assets.football-logos.cc/logos/brazil/700x700/brazilian-serie-a.7d78c4af.png",
-      "url":"https://atmflix.live/football/681151",
-      "referer":"https://atmflix.live/",
-      "info":"19 พ.ย. 2026 06:30",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Corinthians vs Botafogo",
-      "image":"https://assets.football-logos.cc/logos/brazil/700x700/brazilian-serie-a.7d78c4af.png",
-      "url":"https://atmflix.live/football/681153",
-      "referer":"https://atmflix.live/",
-      "info":"19 พ.ย. 2026 07:30",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Gremio vs Bahia",
-      "image":"https://assets.football-logos.cc/logos/brazil/700x700/brazilian-serie-a.7d78c4af.png",
-      "url":"https://atmflix.live/football/681154",
-      "referer":"https://atmflix.live/",
-      "info":"19 พ.ย. 2026 07:30",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Vasco DA Gama vs Internacional",
-      "image":"https://assets.football-logos.cc/logos/brazil/700x700/brazilian-serie-a.7d78c4af.png",
-      "url":"https://atmflix.live/football/681238",
-      "referer":"https://atmflix.live/",
-      "info":"20 พ.ย. 2026 05:30",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Sao Paulo vs Fluminense",
-      "image":"https://assets.football-logos.cc/logos/brazil/700x700/brazilian-serie-a.7d78c4af.png",
-      "url":"https://atmflix.live/football/681242",
-      "referer":"https://atmflix.live/",
-      "info":"20 พ.ย. 2026 07:30",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Kashima vs Shimizu S-pulse",
-      "image":"https://assets.football-logos.cc/logos/japan/700x700/j-league.47f49cf3.png",
-      "url":"https://atmflix.live/football/681263",
-      "referer":"https://atmflix.live/",
-      "info":"20 พ.ย. 2026 17:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Kashiwa Reysol vs JEF United Chiba",
-      "image":"https://assets.football-logos.cc/logos/japan/700x700/j-league.47f49cf3.png",
-      "url":"https://atmflix.live/football/681264",
-      "referer":"https://atmflix.live/",
-      "info":"20 พ.ย. 2026 17:00",
-      "playInNatPlayer":"true"
-    },
-	{
-      "name":"Vissel Kobe vs Mito Hollyhock",
-      "image":"https://assets.football-logos.cc/logos/japan/700x700/j-league.47f49cf3.png",
-      "url":"https://atmflix.live/football/681265",
-      "referer":"https://atmflix.live/",
-      "info":"20 พ.ย. 2026 17:00",
-      "playInNatPlayer":"true"
-    },
-	{
       "name":"Athletic Club vs Espanyol",
       "image":"https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
       "url":"https://atmflix.live/football/681612",
@@ -211,6 +139,158 @@
       "url":"https://atmflix.live/football/682703",
       "referer":"https://atmflix.live/",
       "info":"21 พ.ย. 2026 23:15",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Parma vs AS Roma",
+      "image":"https://assets.football-logos.cc/logos/italy/700x700/serie-a.15e58b67.png",
+      "url":"https://atmflix.live/football/682744",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 00:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Newcastle vs Arsenal",
+      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
+      "url":"https://atmflix.live/football/682804",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 00:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Sevilla vs Real Betis",
+      "image":"https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
+      "url":"https://atmflix.live/football/682807",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 00:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Feyenoord vs Excelsior",
+      "image":"https://assets.football-logos.cc/logos/netherlands/1500x1500/eredivisie--white-monochrome.8cda4cc1.png",
+      "url":"https://atmflix.live/football/682817",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 00:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Palmeiras vs Flamengo",
+      "image":"https://assets.football-logos.cc/logos/brazil/700x700/brazilian-serie-a.7d78c4af.png",
+      "url":"https://atmflix.live/football/682896",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 02:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Napoli vs Torino",
+      "image":"https://assets.football-logos.cc/logos/italy/700x700/serie-a.15e58b67.png",
+      "url":"https://atmflix.live/football/682900",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 02:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Lille vs Lyon",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Ligue1_logo.png",
+      "url":"https://atmflix.live/football/682902",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 02:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Monaco vs Auxerre",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Ligue1_logo.png",
+      "url":"https://atmflix.live/football/682903",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 02:45",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Real Madrid vs Celta Vigo",
+      "image":"https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
+      "url":"https://atmflix.live/football/682911",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 03:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Argentinos JRS vs Independiente",
+      "image":"https://assets.football-logos.cc/logos/argentina/700x700/argentina-primera-division.57664552.png",
+      "url":"https://atmflix.live/football/682914",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 03:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Atletico-MG vs Boca Juniors",
+      "image":"https://brandlogos.net/wp-content/uploads/2022/11/copa_libertadores-logo_brandlogos.net_fh1mg-512x392.png",
+      "url":"https://atmflix.live/football/682950",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 05:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Inter Miami vs Columbus Crew",
+      "image":"https://images.seeklogo.com/logo-png/8/2/major-league-soccer-logo-png_seeklogo-87540.png",
+      "url":"https://atmflix.live/football/682957",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 06:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Bangkok United vs Ayutthaya FC",
+      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
+      "url":"https://atmflix.live/football/683115",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 18:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Chiangrai vs Lamphun",
+      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
+      "url":"https://atmflix.live/football/683178",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 18:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Rayong FC vs Rasi Salai United",
+      "image":"https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",
+      "url":"https://atmflix.live/football/683223",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 19:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Barcelona vs Villarreal",
+      "image":"https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
+      "url":"https://atmflix.live/football/683293",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 20:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Ajax vs ADO Den Haag",
+      "image":"https://assets.football-logos.cc/logos/netherlands/1500x1500/eredivisie--white-monochrome.8cda4cc1.png",
+      "url":"https://atmflix.live/football/683389",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 20:30",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Trabzonspor vs Eyüpspor",
+      "image":"https://images.seeklogo.com/logo-png/54/2/trendyol-super-lig-logo-png_seeklogo-546248.png",
+      "url":"https://atmflix.live/football/683692",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 23:00",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Liverpool vs Manchester United",
+      "image":"https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",
+      "url":"https://atmflix.live/football/683720",
+      "referer":"https://atmflix.live/",
+      "info":"22 พ.ย. 2026 23:30",
       "playInNatPlayer":"true"
     }
   ]
